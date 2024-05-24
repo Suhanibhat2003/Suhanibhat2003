@@ -1,6 +1,10 @@
-<img align="right" alt="coding" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
-<h1 align="center">Hi 👋, I'm Suhani R Bhat</h1>
-<h3 align="center">A passionate Computer Science Engineer from India</h3>
+<div style="overflow: hidden;">
+    <img align="right" alt="coding" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" style="max-width: 50%; padding-right: 20px;">
+    <div style="padding-top: 20px;">
+        <h1 align="center">Hi 👋, I'm Suhani R Bhat</h1>
+        <h3 align="center">A passionate Computer Science Engineer from India</h3>
+    </div>
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhanibhat2003&label=Profile%20views&color=0e75b6&style=flat" alt="suhanibhat2003" /> </p>
